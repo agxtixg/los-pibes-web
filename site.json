@@ -1,0 +1,11 @@
+{
+  "title": "para los pibes",
+  "description": "Provides essential details and contact info for an Argentine cuisine restaurant in Huechuraba, helping users plan visits with ease.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
